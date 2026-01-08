@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My iPad Website</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; }
+        h1 { color: #007AFF; }
+    </style>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>I built this website entirely on my iPad.</p>
+</body>
+</html>
